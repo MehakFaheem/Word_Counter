@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 //import the inquirer module, which is a command line interface for node js
