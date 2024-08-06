@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 //import the inquirer module, which is a command line interface for node js
 import inquirer from "inquirer";
 
